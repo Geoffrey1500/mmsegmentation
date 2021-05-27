@@ -1,3 +1,8 @@
 -r requirements/optional.txt
 -r requirements/runtime.txt
 -r requirements/tests.txt
+
+mmcv~=1.3.4
+pillow~=8.2.0
+opencv-python~=4.5.2.52
+setuptools~=52.0.0
